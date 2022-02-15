@@ -3,8 +3,15 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 = RESTART: C:\Users\KESHAV SINGLA\Desktop\intro to pyhton assignment\assign 03\ques01.py
 Question 1 
-Enter the string (preferably enter a single word) : KESHAV
+Enter the string : KESHAV
 {'K': 1, 'E': 1, 'S': 1, 'H': 1, 'A': 1, 'V': 1}
+
+= RESTART: C:\Users\KESHAV SINGLA\Desktop\intro to pyhton assignment\assign 03\ques01.py
+Question 1 
+Enter the string : 
+pyhton PYHTON is a case sensitive language .
+{'pyhton': 2, 'is': 1, 'a': 1, 'case': 1, 'sensitive': 1, 'language': 1, '.': 1}
+
 
 
 = RESTART: C:\Users\KESHAV SINGLA\Desktop\intro to pyhton assignment\assign 03\ques02.py
