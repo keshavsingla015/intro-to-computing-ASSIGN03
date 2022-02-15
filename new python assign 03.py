@@ -1,8 +1,8 @@
 print('Question 1 ')
 
 string = input('Enter the string : \n')
-words=string.split()           # splitting string into words
 string = string.lower()       # converting string into lowercase   
+words=string.split()           # splitting string into words
 word_count = len(words)       #storing number of words in string
 
 dictionary ={}
