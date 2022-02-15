@@ -4,7 +4,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 = RESTART: C:\Users\KESHAV SINGLA\Desktop\intro to pyhton assignment\assign 03\ques01.py
 Question 1 
 Enter the string : KESHAV
-{'K': 1, 'E': 1, 'S': 1, 'H': 1, 'A': 1, 'V': 1}
+{'k': 1, 'e': 1, 's': 1, 'h': 1, 'a': 1, 'v': 1}
 
 = RESTART: C:\Users\KESHAV SINGLA\Desktop\intro to pyhton assignment\assign 03\ques01.py
 Question 1 
